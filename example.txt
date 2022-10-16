@@ -1,1 +1,1 @@
-This is an example file
+\nThis is a second sentence
